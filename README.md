@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ahamed<br><br>I'm a New Developer, passionate about building clean and useful applications.  <br>Professional in Python, and skilled in Java, C++, C#, JavaScript, HTML, CSS.  <br>I have hands-on experience building both Java and Python projects.  <br>I enjoy learning new technologies and improving my coding skills every day.  <br>Looking for opportunities to grow, contribute, and build real-world software.  <br><br>🚀 Always improving. Always building.
+👋 Hi, I'm Syed Musharaf Ahamed<br><br>I'm a New Developer, passionate about building clean and useful applications.  <br>Professional in Python, and skilled in Java, C++, C#, JavaScript, HTML, CSS.  <br>I have hands-on experience building both Java and Python projects.  <br>I enjoy learning new technologies and improving my coding skills every day.  <br>Looking for opportunities to grow, contribute, and build real-world software.  <br><br>🚀 Always improving. Always building.
 
 
 ## 🌐 Socials:

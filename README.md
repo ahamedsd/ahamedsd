@@ -1,6 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm Syed Musharaf Ahamed<br><br> I'm a New developer passionate about building clean and useful applications.  <br>Professional in **Python**, and skilled in **Java, C++, C#, JavaScript, HTML, CSS**.  <br>I have hands-on experience building both **Java and Python projects**.  <br>I enjoy learning new technologies and improving my coding skills every day.  <br>Looking for opportunities to grow, contribute, and build real-world software.  <br><br>🚀 Always improving. Always building.<br>
+👋 Hi, I'm Syed Musharaf Ahamed
 
+Aspiring Python Developer | AI Enthusiast
+I'm on a mission to master Python and build intelligent applications. Currently dedicating my time to studying AI fundamentals, learning algorithms, and preparing to build my first real-world projects. Eager to find an opportunity where I can learn, grow, and contribute.
+
+🚀 Always learning. Ready to build.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahamedsd) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/musharafsd623) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:musharafsd623@gmail.com) 
